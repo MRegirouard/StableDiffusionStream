@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/MRegirouard/StableDiffusionStream/issues"
   },
-  "homepage": "https://github.com/MRegirouard/StableDiffusionStream#readme"
+  "homepage": "https://github.com/MRegirouard/StableDiffusionStream#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
 }
