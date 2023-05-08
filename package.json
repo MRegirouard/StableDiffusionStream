@@ -23,5 +23,8 @@
   "homepage": "https://github.com/MRegirouard/StableDiffusionStream#readme",
   "devDependencies": {
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "mjpeg-server": "^0.3.1"
   }
 }
