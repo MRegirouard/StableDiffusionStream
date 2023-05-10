@@ -6,6 +6,11 @@
     "type": "git",
     "url": "git+https://github.com/MRegirouard/StableDiffusionStream.git"
   },
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "start": "node build/StableDiffusionStream.js"
+  },
   "keywords": [
     "art",
     "youtube",
